@@ -1,4 +1,4 @@
-#include "Control.h"
+#include "ControlSnake.h"
 
 #include <ncurses.h>
 #include <unistd.h>
@@ -33,4 +33,4 @@ void ControlSnake::control(Snake &snake){
             break;
 
     }
-};
+}

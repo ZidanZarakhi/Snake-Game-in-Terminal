@@ -2,7 +2,7 @@
 #include "SnakeMap.h"
 #include "Food.h"
 #include "Score.h"
-#include "Control.h"
+#include "ControlSnake.h"
 
 
 #include <iostream>
