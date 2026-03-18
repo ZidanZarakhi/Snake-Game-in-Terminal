@@ -1,4 +1,4 @@
-#include "Score.h"
+#include "SnakeScore.h"
 
 #include <iostream>
 #include <fstream>
